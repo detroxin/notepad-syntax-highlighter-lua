@@ -8,6 +8,14 @@ List of programming languages:
 <li>Coming soon: LTX</li>
 </ul>
 
+<h3>How to use</h3>
+<ol>
+  <li>Download Lua_Syntax_New.xml</li>
+  <li>Open "Language" in Notepad++</li>
+  <li>"User Defined Languages" => "Define Your Language..."</li>
+  <li>Open "Import" and choose Lua_Syntax_New.xml</li>
+</ol>
+
 <h2>Русский</h2>
 <h3>Этот репозиторий содержит синтаксисы созданные мной для Notepad++.</h3>
 <h6>Возможны баги</h6>
@@ -18,16 +26,6 @@ List of programming languages:
 <li>Скоро: LTX</li>
 </ul>
 
-<h2>English</h2>
-<h3>How to use</h3>
-<ol>
-  <li>Download Lua_Syntax_New.xml</li>
-  <li>Open "Language" in Notepad++</li>
-  <li>"User Defined Languages" => "Define Your Language..."</li>
-  <li>Open "Import" and choose Lua_Syntax_New.xml</li>
-</ol>
-
-<h2>Русский</h2>
 <h3>Как использовать</h3>
 <ol>
   <li>Скачайте Lua_Syntax_New.xml</li>
