@@ -10,10 +10,10 @@ List of programming languages:
 
 <h3>How to use</h3>
 <ol>
-  <li>Download Lua_Syntax_New.xml</li>
+  <li>Download NeedLanguage.xml</li>
   <li>Open "Language" in Notepad++</li>
   <li>"User Defined Languages" => "Define Your Language..."</li>
-  <li>Open "Import" and choose Lua_Syntax_New.xml</li>
+  <li>Open "Import" and choose NeedLanguage.xml</li>
 </ol>
 
 <h2>Русский</h2>
@@ -28,8 +28,8 @@ List of programming languages:
 
 <h3>Как использовать</h3>
 <ol>
-  <li>Скачайте Lua_Syntax_New.xml</li>
+  <li>Скачайте НужныйВамЯзык.xml</li>
   <li>Откройте "Синтаксисы" в Notepad++</li>
   <li>"Польз. Синтаксис" => "Задать свой синтаксис..."</li>
-  <li>Откройте "Import" и выберите Lua_Syntax_New.xml</li>
+  <li>Откройте "Import" и выберите НужныйВамЯзык.xml</li>
 </ol>
