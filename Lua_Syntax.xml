@@ -16,8 +16,8 @@
             <Keywords name="Operators1">== ~= : = /</Keywords>
             <Keywords name="Operators2">and or</Keywords>
             <Keywords name="Folders in code1, open">function for</Keywords>
-            <Keywords name="Folders in code1, middle"></Keywords>
-            <Keywords name="Folders in code1, close">end</Keywords>
+            <Keywords name="Folders in code1, middle">do</Keywords>
+            <Keywords name="Folders in code1, close">end((EOL)</Keywords>
             <Keywords name="Folders in code2, open">if else else</Keywords>
             <Keywords name="Folders in code2, middle"></Keywords>
             <Keywords name="Folders in code2, close">end</Keywords>
