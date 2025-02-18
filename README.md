@@ -1,4 +1,5 @@
 <h3>This repository contains syntaxes created by me for Notepad++.</h3>
+<h6>Possible bugs</h6>
 
 List of programming languages:
 <ul>
