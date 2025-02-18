@@ -2,11 +2,11 @@
 
 List of programming languages:
 <ul>
-<li>Lua</li>
+<li>LuaScript</li>
 </ul>
 <p>Этот репозиторий содержит синтаксисы созданные мной для Notepad++.</p>
 
 Список языков программирования:
 <ul>
-<li>Lua</li>
+<li>LuaScript</li>
 </ul>
