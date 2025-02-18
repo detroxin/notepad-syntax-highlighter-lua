@@ -1,10 +1,10 @@
-<p> This repository contains syntaxes created by me for Notepad++. </p>
+<p>This repository contains syntaxes created by me for Notepad++.</p>
 
 List of programming languages:
 <ul>
 <li>Lua</li>
 </ul>
-Этот репозиторий содержит синтаксисы созданные мной для Notepad++.
+<p>Этот репозиторий содержит синтаксисы созданные мной для Notepad++.</p>
 
 Список языков программирования:
 <ul>
