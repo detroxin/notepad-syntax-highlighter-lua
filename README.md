@@ -22,7 +22,7 @@ List of programming languages:
 
 Список языков программирования:
 <ul>
-<li>LuaScript</li>
+<li>Lua</li>
 <li>Скоро: LTX</li>
 </ul>
 
