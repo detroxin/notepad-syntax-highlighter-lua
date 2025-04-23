@@ -5,7 +5,6 @@
 List of programming languages:
 <ul>
 <li>Lua</li>
-<li>Coming soon: LTX</li>
 </ul>
 
 <h3>How to use</h3>
@@ -23,7 +22,6 @@ List of programming languages:
 Список языков программирования:
 <ul>
 <li>Lua</li>
-<li>Скоро: LTX</li>
 </ul>
 
 <h3>Как использовать</h3>
